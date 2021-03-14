@@ -1,0 +1,96 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  renderer.cpp
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0337' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0309' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0304' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0334' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0311' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0344' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0335' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u031B' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0340' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0315' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u034A' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u030E' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0346' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u033D' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0307' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u030D' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0305' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(530,18): warning C4566: character represented by universal-character-name '\u0302' cannot be represented in the current code page (1252)
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(686,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(711,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(711,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(711,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(712,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(712,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(712,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(713,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(713,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(713,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(714,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(714,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(714,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(715,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(715,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(720,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(720,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(720,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(720,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(720,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(724,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(724,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(724,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(724,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(724,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(728,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(729,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(742,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(742,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(742,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(742,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(743,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(743,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(743,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(743,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(744,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(744,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(744,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(744,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(745,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(745,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(745,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(745,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(746,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(746,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(746,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(746,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(747,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(747,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(747,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(747,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(748,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(748,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(748,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(748,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(749,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(749,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(749,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(749,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2088,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2094,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2102,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2102,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2102,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2102,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2102,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     Creating library ..\modmap\test.lib and object ..\modmap\test.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+C:\Users\Alfie\Desktop\Other Cheat\renderer.cpp(2098): warning C4700: uninitialized local variable 'X' used
+  550 of 2623 functions (21.0%) were compiled, the rest were copied from previous compilation.
+    545 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Fortnite.vcxproj -> C:\Users\Alfie\Desktop\modmap\test.dll
